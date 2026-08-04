@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description:
     "Cortes, mechas e tratamentos especializados para cabelos ondulados, cacheados e crespos em Barueri, São Paulo.",
   other: { "codex-preview": "development" },
-  icons: { icon: "/favicon.svg", shortcut: "/favicon.svg" },
+  icons: { icon: "/v-verissimo.png", shortcut: "/v-verissimo.png" },
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
